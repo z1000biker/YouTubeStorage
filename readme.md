@@ -53,18 +53,7 @@ Features
 *   Universal Compatibility - Works with any file type
     
 
-Installation
-------------
 
-### Option 1: Use Online (Recommended)
-
-Just visit the live demo link above.
-
-### Option 2: Download and Run Locally
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   git clone https://github.com/nkontopoul/youtubestorage.git  cd youtubestorage   `
-
-Then open youtube.html in your browser.
 
 Usage
 -----
